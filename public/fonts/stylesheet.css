@@ -1,0 +1,269 @@
+@font-face {
+  font-family: "PP Neue Machina Inktrap";
+  src: url("PPNeueMachina-InktrapBlack.woff2") format("woff2"),
+    url("PPNeueMachina-InktrapBlack.woff") format("woff");
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "PP Neue Machina Inktrap";
+  src: url("PPNeueMachina-InktrapBlackItalic.woff2") format("woff2"),
+    url("PPNeueMachina-InktrapBlackItalic.woff") format("woff");
+  font-weight: 900;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "PP Neue Machina Inktrap";
+  src: url("PPNeueMachina-InktrapBold.woff2") format("woff2"),
+    url("PPNeueMachina-InktrapBold.woff") format("woff");
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "PP Neue Machina Inktrap";
+  src: url("PPNeueMachina-InktrapLight.woff2") format("woff2"),
+    url("PPNeueMachina-InktrapLight.woff") format("woff");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "PP Neue Machina Inktrap";
+  src: url("PPNeueMachina-InktrapMedium.woff2") format("woff2"),
+    url("PPNeueMachina-InktrapMedium.woff") format("woff");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "PP Neue Machina Inktrap";
+  src: url("PPNeueMachina-InktrapBoldItalic.woff2") format("woff2"),
+    url("PPNeueMachina-InktrapBoldItalic.woff") format("woff");
+  font-weight: bold;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "PP Neue Machina Inktrap";
+  src: url("PPNeueMachina-InktrapLightItalic.woff2") format("woff2"),
+    url("PPNeueMachina-InktrapLightItalic.woff") format("woff");
+  font-weight: 300;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "PP Neue Machina Inktrap";
+  src: url("PPNeueMachina-InktrapMediumItalic.woff2") format("woff2"),
+    url("PPNeueMachina-InktrapMediumItalic.woff") format("woff");
+  font-weight: 500;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "PP Neue Machina Inktrap";
+  src: url("PPNeueMachina-InktrapRegular.woff2") format("woff2"),
+    url("PPNeueMachina-InktrapRegular.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "PP Neue Machina Inktrap";
+  src: url("PPNeueMachina-InktrapRegularItalic.woff2") format("woff2"),
+    url("PPNeueMachina-InktrapRegularItalic.woff") format("woff");
+  font-weight: normal;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "PP Neue Machina Inktrap";
+  src: url("PPNeueMachina-InktrapSemiboldItalic.woff2") format("woff2"),
+    url("PPNeueMachina-InktrapSemiboldItalic.woff") format("woff");
+  font-weight: 600;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "PP Neue Machina Inktrap";
+  src: url("PPNeueMachina-InktrapThin.woff2") format("woff2"),
+    url("PPNeueMachina-InktrapThin.woff") format("woff");
+  font-weight: 100;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "PP Neue Machina Inktrap";
+  src: url("PPNeueMachina-InktrapSemibold.woff2") format("woff2"),
+    url("PPNeueMachina-InktrapSemibold.woff") format("woff");
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "PP Neue Machina Inktrap";
+  src: url("PPNeueMachina-InktrapUltrabold.woff2") format("woff2"),
+    url("PPNeueMachina-InktrapUltrabold.woff") format("woff");
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "PP Neue Machina Inktrap";
+  src: url("PPNeueMachina-InktrapUltralightItalic.woff2") format("woff2"),
+    url("PPNeueMachina-InktrapUltralightItalic.woff") format("woff");
+  font-weight: 200;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "PP Neue Machina Inktrap";
+  src: url("PPNeueMachina-InktrapUltraboldItalic.woff2") format("woff2"),
+    url("PPNeueMachina-InktrapUltraboldItalic.woff") format("woff");
+  font-weight: bold;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "PP Neue Machina Inktrap";
+  src: url("PPNeueMachina-InktrapUltralight.woff2") format("woff2"),
+    url("PPNeueMachina-InktrapUltralight.woff") format("woff");
+  font-weight: 200;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "PP Neue Machina Inktrap";
+  src: url("PPNeueMachina-InktrapThinItalic.woff2") format("woff2"),
+    url("PPNeueMachina-InktrapThinItalic.woff") format("woff");
+  font-weight: 100;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "PP Neue Machina Plain";
+  src: url("PPNeueMachina-PlainBlackItalic.woff2") format("woff2"),
+    url("PPNeueMachina-PlainBlackItalic.woff") format("woff");
+  font-weight: 900;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "PP Neue Machina Plain";
+  src: url("PPNeueMachina-PlainBold.woff2") format("woff2"),
+    url("PPNeueMachina-PlainBold.woff") format("woff");
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "PP Neue Machina Plain";
+  src: url("PPNeueMachina-PlainLight.woff2") format("woff2"),
+    url("PPNeueMachina-PlainLight.woff") format("woff");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "PP Neue Machina Plain";
+  src: url("PPNeueMachina-PlainBlack.woff2") format("woff2"),
+    url("PPNeueMachina-PlainBlack.woff") format("woff");
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "PP Neue Machina Plain";
+  src: url("PPNeueMachina-PlainBoldItalic.woff2") format("woff2"),
+    url("PPNeueMachina-PlainBoldItalic.woff") format("woff");
+  font-weight: bold;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "PP Neue Machina Plain";
+  src: url("PPNeueMachina-PlainRegular.woff2") format("woff2"),
+    url("PPNeueMachina-PlainRegular.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "PP Neue Machina Plain";
+  src: url("PPNeueMachina-PlainMedium.woff2") format("woff2"),
+    url("PPNeueMachina-PlainMedium.woff") format("woff");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "PP Neue Machina Plain";
+  src: url("PPNeueMachina-PlainRegularItalic.woff2") format("woff2"),
+    url("PPNeueMachina-PlainRegularItalic.woff") format("woff");
+  font-weight: normal;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "PP Neue Machina Plain";
+  src: url("PPNeueMachina-PlainMediumItalic.woff2") format("woff2"),
+    url("PPNeueMachina-PlainMediumItalic.woff") format("woff");
+  font-weight: 500;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "PP Neue Machina Plain";
+  src: url("PPNeueMachina-PlainLightItalic.woff2") format("woff2"),
+    url("PPNeueMachina-PlainLightItalic.woff") format("woff");
+  font-weight: 300;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "PP Neue Machina Plain";
+  src: url("PPNeueMachina-PlainSemiboldItalic.woff2") format("woff2"),
+    url("PPNeueMachina-PlainSemiboldItalic.woff") format("woff");
+  font-weight: 600;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "PP Neue Machina Plain";
+  src: url("PPNeueMachina-PlainSemibold.woff2") format("woff2"),
+    url("PPNeueMachina-PlainSemibold.woff") format("woff");
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}

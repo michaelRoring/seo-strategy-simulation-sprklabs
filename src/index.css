@@ -1,0 +1,7 @@
+@import url("/fonts/stylesheet.css");
+@import "tailwindcss";
+
+:root {
+  font-family: "PP Neue Machina Plain", "PP Neue Machina Inktrap", system-ui,
+    -apple-system, sans-serif;
+}
